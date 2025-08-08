@@ -1,0 +1,13 @@
+name = "NoDim"
+filename = "noend-neoforge-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PL5F9WAX/versions/1d8H597Q/noend-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "651efbc3c8dad9dd43a8d26840160245d8a94684a37d04f3b13cf4ff0f801057b748f0f0846d6e1ad729ee7e813867b980242f93b0cad09b7a97ea55b9662b0d"
+
+[update]
+[update.modrinth]
+mod-id = "PL5F9WAX"
+version = "1d8H597Q"

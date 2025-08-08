@@ -1,0 +1,13 @@
+name = "Every Compat (Stone Zone)"
+filename = "stonezone-1.21-2.10.8-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uYwn8IP5/versions/foISwPfr/stonezone-1.21-2.10.8-neoforge.jar"
+hash-format = "sha512"
+hash = "4bf011a66a78051258fa9e367383d52e5d52fa57b63a879de037affb07219c52c578d04178dc738542a5028f84439d8cd53351c036ea787bee44007e259595f9"
+
+[update]
+[update.modrinth]
+mod-id = "uYwn8IP5"
+version = "foISwPfr"

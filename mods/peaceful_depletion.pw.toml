@@ -1,0 +1,13 @@
+name = "Peaceful Depletion"
+filename = "PeacefulDepletion-neoforge-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zk9qNyeH/versions/HjUDAkzA/PeacefulDepletion-neoforge-1.21.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "640689e3fd72933576714c6c901c7ae4f19a591e3373374b500cb5dcdc1f25d83cbcac7888d5bb1da92ae1dec8fa3908ec8e622f48625f29015fa43bdad38e8b"
+
+[update]
+[update.modrinth]
+mod-id = "zk9qNyeH"
+version = "HjUDAkzA"

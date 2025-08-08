@@ -1,0 +1,13 @@
+name = "notblue's Vegan Recipes"
+filename = "vegan-recipes-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LlKsFkYG/versions/QNeWD1ry/vegan-recipes-1.6.jar"
+hash-format = "sha512"
+hash = "880ab162d661a61e37e5986c8df1db931fbdd4cde0628ca01c68109a68d5bb241c59cd87a9f7c1189e15d7345950aaf1532af607250ff3fb343434077b482dc9"
+
+[update]
+[update.modrinth]
+mod-id = "LlKsFkYG"
+version = "QNeWD1ry"

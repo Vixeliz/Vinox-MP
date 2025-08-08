@@ -1,0 +1,13 @@
+name = "Vinox"
+author = "vixeliz"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4c0409639ff3816acf4ff69a60dcdcb4917e481e86bbdf8b5877a6a9e7dc2671"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.197"

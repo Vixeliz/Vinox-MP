@@ -1,0 +1,13 @@
+name = "Ex Deorum"
+filename = "exdeorum-3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WP0FLyzv/versions/yrfg9qqU/exdeorum-3.7.jar"
+hash-format = "sha512"
+hash = "159ac427241e3b53b5dd7fed1ffc48313537593b28a899023d1eebde667a715695f805652328a81d8ff3335add5264af172363e4713fb0b4adfa9a038e2239fd"
+
+[update]
+[update.modrinth]
+mod-id = "WP0FLyzv"
+version = "yrfg9qqU"

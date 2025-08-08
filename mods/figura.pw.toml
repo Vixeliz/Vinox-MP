@@ -1,0 +1,8 @@
+name = "Figura"
+filename = "figura.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Vixeliz/Vinox-MP/raw/refs/heads/main/jars/figura.jar"
+hash-format = "sha256"
+hash = "b343b0a41ae4df21834fb9f9691246cca12f5317ebf99391796dedeb17df7208"
