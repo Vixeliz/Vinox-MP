@@ -1,0 +1,13 @@
+name = "AntiPortals"
+filename = "antiportals-neoforge-1.21.1-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2IyQrutX/versions/F1HHuPGr/antiportals-neoforge-1.21.1-2.1.jar"
+hash-format = "sha512"
+hash = "f45aeaf0792a8d06afb232a239e8cb048d29af3bd41c11b3b7e40dbd23f352b197b2a77f11d97504460b063096c4d83d7ed2032b6fab7c076088bdb3c3211e4f"
+
+[update]
+[update.modrinth]
+mod-id = "2IyQrutX"
+version = "F1HHuPGr"
