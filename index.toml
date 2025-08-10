@@ -295,6 +295,11 @@ hash = "af8104f6a407333ecbefe9edd73ac873a77f59aed959913607ff808812de47d7"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "4c86752cb0504fdf1b303af0d06ba8a2f0cd5866cd357817ff9a18361292c4ad"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "6235e7170c7322559d2b0e76a97c891dbab60e79c15a9d4cb3a4805b5d23fbda"
 metafile = true
@@ -727,4 +732,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "aa9070a0e763f00f0d0b325e9bb980e53faabe9854bae25f2e542a7b81b7492e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/essentials.pw.toml"
+hash = "2f879e73b18b0b5477f83f150fcfe6536286f4abfe6ee2fce0629102250f5b2a"
 metafile = true
