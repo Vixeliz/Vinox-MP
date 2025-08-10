@@ -733,8 +733,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "aa9070a0e763f00f0d0b325e9bb980e53faabe9854bae25f2e542a7b81b7492e"
 metafile = true
-
-[[files]]
-file = "resourcepacks/essentials.pw.toml"
-hash = "2f879e73b18b0b5477f83f150fcfe6536286f4abfe6ee2fce0629102250f5b2a"
-metafile = true
